@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Razeeeeeeeeeee/Agentic-AI-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Razeeeeeeeeeee/AgenticAi-backend.git
